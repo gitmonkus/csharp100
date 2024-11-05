@@ -1,0 +1,14 @@
+C:\Users\ironm\Documents\gitHub\csharp100\AirportLockerRental\bin\Debug\net8.0\AirportLockerRental.exe
+C:\Users\ironm\Documents\gitHub\csharp100\AirportLockerRental\bin\Debug\net8.0\AirportLockerRental.deps.json
+C:\Users\ironm\Documents\gitHub\csharp100\AirportLockerRental\bin\Debug\net8.0\AirportLockerRental.runtimeconfig.json
+C:\Users\ironm\Documents\gitHub\csharp100\AirportLockerRental\bin\Debug\net8.0\AirportLockerRental.dll
+C:\Users\ironm\Documents\gitHub\csharp100\AirportLockerRental\bin\Debug\net8.0\AirportLockerRental.pdb
+C:\Users\ironm\Documents\gitHub\csharp100\AirportLockerRental\obj\Debug\net8.0\AirportLockerRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ironm\Documents\gitHub\csharp100\AirportLockerRental\obj\Debug\net8.0\AirportLockerRental.AssemblyInfoInputs.cache
+C:\Users\ironm\Documents\gitHub\csharp100\AirportLockerRental\obj\Debug\net8.0\AirportLockerRental.AssemblyInfo.cs
+C:\Users\ironm\Documents\gitHub\csharp100\AirportLockerRental\obj\Debug\net8.0\AirportLockerRental.csproj.CoreCompileInputs.cache
+C:\Users\ironm\Documents\gitHub\csharp100\AirportLockerRental\obj\Debug\net8.0\AirportLockerRental.dll
+C:\Users\ironm\Documents\gitHub\csharp100\AirportLockerRental\obj\Debug\net8.0\refint\AirportLockerRental.dll
+C:\Users\ironm\Documents\gitHub\csharp100\AirportLockerRental\obj\Debug\net8.0\AirportLockerRental.pdb
+C:\Users\ironm\Documents\gitHub\csharp100\AirportLockerRental\obj\Debug\net8.0\AirportLockerRental.genruntimeconfig.cache
+C:\Users\ironm\Documents\gitHub\csharp100\AirportLockerRental\obj\Debug\net8.0\ref\AirportLockerRental.dll
