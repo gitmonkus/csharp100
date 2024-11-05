@@ -72,9 +72,6 @@ while (numberChoice != 5)
  -------------------------------------*/
 int promptForNumber(int num)
 {
-
-    do
-    {
         if (num == 5)
         {
             Console.Write("Enter your choice (1-5): ");
@@ -83,6 +80,9 @@ int promptForNumber(int num)
         {
             Console.Write("Enter locker number (1-100): ");
         }
+
+    do
+    {
         if (int.TryParse(Console.ReadLine(), out numberChoice))
         {
             if (numberChoice > 0 && numberChoice <= num)
@@ -92,7 +92,7 @@ int promptForNumber(int num)
 
             else
             {
-                Console.WriteLine("Invalid choice.");
+                Console.WriteLine($"Invalid choice.  Please enter a number between 1 and {num}.");
             }
         }
         else
