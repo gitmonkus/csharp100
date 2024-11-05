@@ -79,7 +79,7 @@ int promptForNumber(int num)
         {
             Console.Write("Enter your choice (1-5): ");
         }
-        if (num == 100)
+        else if (num == 100)
         {
             Console.Write("Enter locker number (1-100): ");
         }
