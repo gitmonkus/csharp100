@@ -3,15 +3,19 @@
  | Description: A menu of five options to view, rent, end a locker rental, list all locker contents, or quit.
  | Author: SkillFoundry -- coded by Steve
  | Dependencies: Null
- | Version: 1.0
+ | Version: 1.1
+ | Changes: Added a description for each variable
  -----------------------------------------------------------------------------------------------------------*/
-
 
 /*----------------------
  |  Declare variables
  -----------------------*/
-int numberChoice = 0;
-string viewLockerReturn, lockerContents, lockerContentsReturn, endLockerReturn, listLockerReturn = "";
+int numberChoice = 0; // Returns menu number and locker number from promptForNumber()  
+string viewLockerReturn; // Returns what's in a locker from viewALocker()
+string lockerContents; // Store Locker contents in rentALocker() and endALocker()
+string lockerContentsReturn; // Returns Locker contents from rentALocker()
+string endLockerReturn; // Returns end of locker rental from endALocker()
+string listLockerReturn = ""; // Returns all locker contents from listAllLocker()
 
 
 /*--------------------------
